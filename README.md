@@ -13,13 +13,14 @@ I ws able to solve the following challenges.
 
 	Web Exploitation:
 
-		1. Cookies [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Web_Exploitation/cookies.md)
+		1. Cookies
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Web_Exploitation/cookies.md)
 
 	Binary Exploiatation:
 
 		1. format string 0
    
-2. Medium Difficulty
+3. Medium Difficulty
 
 	Reverse engineering:
 
@@ -48,7 +49,7 @@ I ws able to solve the following challenges.
 		2.  buffer overflow 0
 		3. flag leak
    
-3. Hard Difficulty
+4. Hard Difficulty
 
 	Crptography:
 
