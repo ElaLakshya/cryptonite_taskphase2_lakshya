@@ -9,7 +9,7 @@ I aspire to learn more and be better than just a beginner. I couldn't solve all 
 I ws able to solve the following challenges.
 
 ## Here is the information on all challenges of picoctf
-**1. Easy difficulty**
+1. Easy difficulty
 
 	Web Exploitation:
 
@@ -19,26 +19,37 @@ I ws able to solve the following challenges.
 
 		1. format string 0
    
-**2. Medium Difficulty**
+2. Medium Difficulty
 
 	Reverse engineering:
+
 		1. GDB baby step 1
 		2. ARMssembly 1
 		3. Vault door 3
+   
 	Forensics:
+
 		1. trivial flag transfer protocol
 		2. tunn3l v1s10n
 		3. m00nwalk
+   
 	Web Exploitation:
+
 		2. SOAP
 		3.Forbidden Paths
+   
 	Cryptography:
+
 		1. C3
 		2. Custom encryption
+   
 	Binary Exploitation:
+
 		2.  buffer overflow 0
 		3. flag leak
-**3. Hard Difficulty**
+   
+3. Hard Difficulty
 
 	Crptography:
+
 		3. miniRSA
