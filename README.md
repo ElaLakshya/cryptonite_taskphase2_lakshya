@@ -9,7 +9,7 @@ I aspire to learn more and be better than just a beginner. I couldn't solve all 
 I ws able to solve the following challenges.
 
 ## Here is the information on all challenges of picoctf
-**1. Easy difficulty**
+1. Easy difficulty
 
 	Web Exploitation:
 		1. Cookies [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Web_Exploitation/cookies.md)
