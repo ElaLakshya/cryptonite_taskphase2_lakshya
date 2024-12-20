@@ -37,7 +37,10 @@ I ws able to solve the following challenges.
 	Web Exploitation:
 
 		2. SOAP
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Web_Exploitation/Forbidden_Paths.md)
+   
 		3.Forbidden Paths
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Web_Exploitation/SOAP.md)
    
 	Cryptography:
 
@@ -49,7 +52,7 @@ I ws able to solve the following challenges.
 		2.  buffer overflow 0
 		3. flag leak
    
-4. Hard Difficulty
+5. Hard Difficulty
 
 	Crptography:
 
