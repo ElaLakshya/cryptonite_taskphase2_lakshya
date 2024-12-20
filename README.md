@@ -12,7 +12,7 @@ I ws able to solve the following challenges.
 **1. Easy difficulty**
 
 	Web Exploitation:
-		1. Cookies [here](Web_Exploitation/cookies.md)
+		1. Cookies [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Web_Exploitation/cookies.md)
 
 	Binary Exploiatation:
 		1. format string 0 
