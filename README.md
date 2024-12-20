@@ -12,7 +12,8 @@ I ws able to solve the following challenges.
 **1. Easy difficulty**
 
 	Web Exploitation:
-		1. Cookies
+		1. Cookies [here](Web_Exploitation/cookies.md)
+
 	Binary Exploiatation:
 		1. format string 0 
 **2. Medium Difficulty**
