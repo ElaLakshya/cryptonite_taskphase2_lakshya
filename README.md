@@ -19,6 +19,7 @@ I ws able to solve the following challenges.
 	Binary Exploiatation:
 
 		1. format string 0
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Binary_Exploitation/format-string-0.md)
    
 3. Medium Difficulty
 
@@ -37,9 +38,11 @@ I ws able to solve the following challenges.
 	Web Exploitation:
 
 		2. SOAP
+   
    [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Web_Exploitation/Forbidden_Paths.md)
    
 		3.Forbidden Paths
+   
    [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Web_Exploitation/SOAP.md)
    
 	Cryptography:
@@ -50,7 +53,12 @@ I ws able to solve the following challenges.
 	Binary Exploitation:
 
 		2.  buffer overflow 0
+
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Binary_Exploitation/buffer-overflow-0.md)
+   
 		3. flag leak
+   
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Binary_Exploitation/flag-leak.md)
    
 5. Hard Difficulty
 
