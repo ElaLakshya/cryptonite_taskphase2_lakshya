@@ -6,7 +6,7 @@ Hello! I am Lakshya. My degree is CS with specs in AI and ML.
 Cyber Security peaks my interest when I look at computers, but I am not well versed with the topic. 
 CTFs are a fairly new concept to me. Currently possessing the ability to be able to solve easy difficulty challenges without help,
 I aspire to learn more and be better than just a beginner. I couldn't solve all tasks on my own but with help from old players and experienced people I know
-I ws able to solve the following challenges.
+I was able to solve the following challenges.
 
 ## Here is the information on all challenges of picoctf
 1. Easy difficulty
