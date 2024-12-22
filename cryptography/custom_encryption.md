@@ -65,6 +65,8 @@ So on dividing by 311, then key=12, we get an ordinal that we convert to charact
 
 ### Role of XOR
 
+What xor does is repeat the key on the plaintext provided and applies a function to encrypt it's code. The property of XOR is that it is reversible. that is, if you put the output back, it will rereturn the input
+
 So the key_text plays the role of repeating the iteration for the given text series. We know our flag is of the format picoCTF{, so putting that as text_key, we are supposed to get the key needed to be run over to get the flag.
 
 On doing so, we get the value "aedurtu". This is the key we need to run on the entire cipher text.
