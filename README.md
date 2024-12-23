@@ -78,4 +78,5 @@ I was able to solve the following challenges.
 
 	Crptography:
 
-		3. miniRSA- notified the mentor
+		3. miniRSA
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/cryptography/miniRSA.md)
