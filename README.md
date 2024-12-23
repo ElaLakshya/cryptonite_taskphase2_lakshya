@@ -26,14 +26,23 @@ I was able to solve the following challenges.
 	Reverse engineering:
 
 		1. GDB baby step 1
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/reverse_engineering/GDB-babystep1.md)
+   
 		2. ARMssembly 1
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/reverse_engineering/ARMssembly1.md)
+   
 		3. Vault door 3
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/reverse_engineering/VaultDoor3.md)
    
 	Forensics:
 
 		1. trivial flag transfer protocol
+   [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Forensics/trivial_flag_transfer_protocol.md)
+   
 		2. tunn3l v1s10n
-		3. m00nwalk
+[here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/Forensics/Tunn3l_v1s10n.md)
+   
+		3. m00nwalk-notified the mentor
    
 	Web Exploitation:
 
@@ -48,7 +57,11 @@ I was able to solve the following challenges.
 	Cryptography:
 
 		1. C3
+[here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/cryptography/C3.md)
+  
 		2. Custom encryption
+  [here](https://github.com/ElaLakshya/cryptonite_taskphase2_lakshya/blob/main/cryptography/custom_encryption.md)
+  
    
 	Binary Exploitation:
 
@@ -64,4 +77,4 @@ I was able to solve the following challenges.
 
 	Crptography:
 
-		3. miniRSA
+		3. miniRSA- notified the mentor
