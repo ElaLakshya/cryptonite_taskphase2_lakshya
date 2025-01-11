@@ -2,7 +2,7 @@
 
 So we are given an audio to download, and a hint how images were transmitted to earth from the moon landing. So making use of that information, we know that the sound probably forms an image containing the flag.
 
-So one application that utilises this technology is sqqtv.
+So one application that utilises this technology is qsstv.
 
 Using qsstv we can download the picture we can obtain from the wav file provided.
 
